@@ -1,58 +1,477 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/start/models/</loc>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>https://rapidsurveys.io/learn/statistics/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/learn/models/parsnip-ranger-glmnet/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/learn/models/parsnip-nnet/</loc>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/learn/models/</loc>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/learn/work/nested-resampling/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/start/recipes/</loc>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/learn/statistics/bootstrap/</loc>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://rapidsurveys.io/start/resampling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/work/bayes-opt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/work/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/statistics/infer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/models/pls/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/statistics/xtabs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/max-kuhn/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/package/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/recipes/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/06/recipes-0-1-13/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/tidymodels/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/hadley-wickham/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/tidyr/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/05/tidyr-1.1.0/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/rules/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/05/rules-0-0-1/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/ragg/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/systemfonts/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/thomas-lin-pedersen/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/05/updates-to-ragg-and-systemfonts/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/jenny-bryan/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/learn/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/programming/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/r-lib/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/04/self-cleaning-test-fixtures/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/04/tidymodels-org/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/devtools/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/usethis/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/04/usethis-1-6-0/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/kirill-m%C3%BCller/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/04/tibble-3-0-0/</loc>
+    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/pkgdown/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/03/pkgdown-1-5-0/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/web/</loc>
+    <lastmod>2020-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/g%C3%A1bor-cs%C3%A1rdi/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/roxygen2/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/03/roxygen2-7-1-0/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/mara-averick/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/02/tidy-dev-days-2020/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/other/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/tidyverse-dev-day/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/emil-hvitfeldt/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/themis/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/02/themis-0-1-0/</loc>
+    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/davis-vaughan/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/slider/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/02/slider-0-1-0/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/rstudio-conf-2020/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/jim-hester/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/package/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/vroom/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2020/01/vroom-1-1-0/</loc>
+    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/icse-2019/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/tidy-tools-2019/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/alison/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/mine/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2019/02/stringr-1-4-0/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/carl/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/garrett/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2019/02/haven-2-1-0/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/lionel-henry-jenny-bryan-hadley-wickham-greg/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/blog/2019/02/purrr-0-3-0/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/rstudio-conf-2019/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/rstudio-conf-2018/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/author/greg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/broom/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/dials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/home/band_one/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/help/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/infer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/learn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/home/band_two/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/model-fitting/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/model-tuning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/home/band_three/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/parsnip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/events/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/pre-processing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/resampling/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/rsample/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/statistical-analysis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/packages/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/tune/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/categories/tuning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/workflows/</loc>
+  </url>
+  
+  <url>
+    <loc>https://rapidsurveys.io/tags/yardstick/</loc>
   </url>
   
 </urlset>
